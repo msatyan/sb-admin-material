@@ -1,18 +1,11 @@
+
 @import '~@angular/material/theming';
 
-:host {
-    display: block;
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    z-index: 1000;
-}
-
-.mat-card-header-text {
+:host .mat-card-header-text {
     width: 100%;
     text-align: right;
 }
+
 
 .icon-lg {
     font-size: 40px;
