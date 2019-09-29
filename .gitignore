@@ -41,3 +41,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+
+########
+0.*
+*.tmp
+dist
+dist/*
+
