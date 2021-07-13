@@ -1,12 +1,17 @@
-# SB Admin rewritten in Angular 8 and Material2
+# SB Admin rewritten in Angular9 and Material2
 
-Simple Dashboard Admin App built using Angular 8 and Material 2.
+Simple Dashboard Admin App built using Angular 9 and Material 2.
 
 This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v1.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular6 Theme.
 
-## [Demo](http://rawgit.com/start-javascript/sb-admin-material/master/dist/)
+## [Demo](https://start-javascript.github.io/sb-admin-material)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+### Donation
+If this project help you reduce time to develop, you can give me a cup of tea :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/nitinkrmr)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ### Introduction
 
@@ -15,11 +20,11 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 `sb-admin-material` provides the following features:
 
 *   Developed using Material-v2.0.0
-*   angular-8.2.8
-*   angular/cli-8.3.6
-*   angular/material-8.2.1
-*   angular/cdk-8.2.1
-*   angular/flex-layout-8.0.0-beta.27
+*   angular-v9.1.1
+*   angular/cli-v9.1.1
+*   angular/material-v9.2.0
+*   angular/cdk-v9.2.0
+*   angular/flex-layout-v9.0.0-beta.29
 *   [ngx-translate-v11.0.1](https://github.com/ngx-translate)
 *   Following the best practices.
 *   Ahead-of-Time compilation support.
@@ -29,7 +34,7 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 
 ### How to start
 
-**Note** that this seed project requires **node >=v8.9.0 and npm >=6**.
+**Note** that this seed project requires **node >=v10.13 and npm >=6**.
 
 In order to start the project use:
 
